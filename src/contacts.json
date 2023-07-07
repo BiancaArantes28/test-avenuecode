@@ -1,0 +1,26 @@
+[
+    {
+        "srno": 0,
+        "name": "varad",
+        "number": 1234567890,
+        "email": "varad@hackerrank.com"
+    },
+    {
+        "srno": 1,
+        "name": "varad2",
+        "number": 1234567890,
+        "email": "varad1@hackerrank.com"
+    },
+    {
+        "srno": 2,
+        "name": "varad3",
+        "number": 1234567890,
+        "email": "varad2@hackerrank.com"
+    },
+    {
+        "srno": 3,
+        "name": "varad4",
+        "number": 1234567890,
+        "email": "varad3@hackerrank.com"
+    }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="8" failures="0" errors="0" time="3.381">
+  <testsuite name="Functions of Input Feilds" errors="0" failures="0" skipped="0" timestamp="2023-07-07T20:10:50" time="2.007" tests="8">
+    <testcase classname="Functions of Input Feilds Name should be text" name="Functions of Input Feilds Name should be text" time="0.032">
+    </testcase>
+    <testcase classname="Functions of Input Feilds Number should be Input type Number" name="Functions of Input Feilds Number should be Input type Number" time="0.006">
+    </testcase>
+    <testcase classname="Functions of Input Feilds Email Input should be type of email" name="Functions of Input Feilds Email Input should be type of email" time="0.006">
+    </testcase>
+    <testcase classname="Test Content Load Initially no Contacts should be rendered" name="Test Content Load Initially no Contacts should be rendered" time="0.007">
+    </testcase>
+    <testcase classname="Test Content Load Loads Contacts" name="Test Content Load Loads Contacts" time="0.005">
+    </testcase>
+    <testcase classname="Validation of Inputs Check Form for correct Input and Add contact in the list" name="Validation of Inputs Check Form for correct Input and Add contact in the list" time="0.029">
+    </testcase>
+    <testcase classname="Validation of Inputs Check form for Invalid Input" name="Validation of Inputs Check form for Invalid Input" time="0.012">
+    </testcase>
+    <testcase classname="Validation of Inputs Check form for Blank Input" name="Validation of Inputs Check form for Blank Input" time="0.009">
+    </testcase>
+  </testsuite>
+</testsuites>
